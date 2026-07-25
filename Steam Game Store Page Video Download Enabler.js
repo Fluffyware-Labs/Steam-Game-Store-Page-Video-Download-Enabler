@@ -8,7 +8,7 @@
 // @grant       none
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @updateURL   https://raw.githubusercontent.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/refs/heads/main/Steam%20Game%20Store%20Page%20Video%20Download%20Enabler.js
-// @downloadURL https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/blob/main/Steam%20Game%20Store%20Page%20Video%20Download%20Enabler.js
+// @downloadURL https://raw.githubusercontent.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/refs/heads/main/Steam%20Game%20Store%20Page%20Video%20Download%20Enabler.js
 // @supportURL  https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/issues
 // @homepage    https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
 // @homepageURL https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
