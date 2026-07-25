@@ -1,15 +1,18 @@
 // ==UserScript==
-// @name         Steam Game Store Page Video Download Enabler
-// @description  A TamperMonkey Script that enables you to download videos from a games store page on Steam
-// @author       Ki77y666
-// @namespace    https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
-// @icon         https://github.com/Ki77y666/SteamDevEmailEnabler/raw/1e00c5fe7affbeee6a165572a590822b38886cab/assets/favicons/favicon.ico
-// @version      1.0
-// @homepage     https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
-// @supportURL   https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/issues
-// @require      https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
-// @match        https://store.steampowered.com/app/*
-// @grant        none
+// @name        Steam Game Store Page Video Download Enabler
+// @namespace   https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
+// @version     1.1
+// @description A TamperMonkey Script that enables you to download videos from a games store page on Steam
+// @author      Ki77y666
+// @match       https://store.steampowered.com/app/*
+// @grant       none
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+// @updateURL   https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/blob/main/Steam%20Game%20Store%20Page%20Video%20Download%20Enabler.js
+// @downloadURL https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/blob/main/Steam%20Game%20Store%20Page%20Video%20Download%20Enabler.js
+// @supportURL  https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/issues
+// @homepage    https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
+// @homepageURL https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
+// @icon        https://github.com/Ki77y666/SteamDevEmailEnabler/raw/1e00c5fe7affbeee6a165572a590822b38886cab/assets/favicons/favicon.ico
 // ==/UserScript==
 
 (function () {
