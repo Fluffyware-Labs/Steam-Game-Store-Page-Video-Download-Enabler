@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Steam Game Store Page Video Download Enabler
 // @namespace   https://github.com/Fluffyware-Labs/Steam-Game-Store-Page-Video-Download-Enabler/
-// @version     1.1
-// @description A TamperMonkey Script that enables you to download videos from a games store page on Steam
+// @version     1.2
+// @description A UserScript that enables you to download videos from a game's store page on Steam
 // @author      Ki77y666
 // @match       https://store.steampowered.com/app/*
 // @grant       none
